@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @P116gif
+- 👀 I’m interested in earning money 😏
+- 🌱 I’m currently learning how to make a game engine (using java and openGL) (will probably make one with C and vulkan too?)
+- 💞️ I’m looking to collaborate on something innovative
+- 📫 Discord: creation.destruction
+- ⚡ Fun fact: I am a very confused person
