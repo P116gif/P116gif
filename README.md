@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @P116gif
-- 👀 I’m interested in earning money 😏
+- 👀 I’m interested in building experiences that people can immerse themselves in
 - 🌱 I’m currently learning all about Gen AI and what we can do with them
-- 💞️ I’m looking to collaborate on something innovative
+- 💞️ I’m working on a some of projects which I hope can help a lot of people
 - 📫 Discord: creation.destruction
-- ⚡ Fun fact: I am a very confused person
